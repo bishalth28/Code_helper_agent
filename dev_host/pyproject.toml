@@ -1,0 +1,14 @@
+[project]
+name = "dev-host"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "a2a-sdk>=0.3.24",
+    "google-adk>=1.26.0",
+    "httpx>=0.28.1",
+    "litellm>=1.82.0",
+    "nest-asyncio>=1.6.0",
+    "openai>=2.24.0",
+    "python-dotenv>=1.2.2",
+]
